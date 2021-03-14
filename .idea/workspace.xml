@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e02fc2f8-b48d-43f3-944d-e8675622bb0d" name="Default Changelist" comment="Test" />
-    <list id="af731678-04d5-4d76-8775-fefd72ddcec8" name="Test" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/soc-react-frontend.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
-    <list id="5026332d-5d27-4428-a74f-a4601f4a12a0" name="updated welcome page" comment="">
+    <list default="true" id="e02fc2f8-b48d-43f3-944d-e8675622bb0d" name="Default Changelist" comment="Landingpage">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_03_2021_20_13__Test_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_03_2021_20_13__Test_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_03_2021_20_13__Test_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_03_2021_20_13__Test_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
     </list>
+    <list id="af731678-04d5-4d76-8775-fefd72ddcec8" name="Test" comment="" />
+    <list id="5026332d-5d27-4428-a74f-a4601f4a12a0" name="updated welcome page" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,12 +19,12 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="temp" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1pkqyehMFAPY8Sy2hCshzZhxMJG" />
+  <component name="ProjectId" id="1plHl1oSxZPJZ3EiPeiFXYQ8HWg" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,63 +32,29 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lauri\soc-react-frontend\src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e02fc2f8-b48d-43f3-944d-e8675622bb0d" name="Default Changelist" comment="" />
-      <changelist id="af731678-04d5-4d76-8775-fefd72ddcec8" name="Test" comment="" />
-      <changelist id="5026332d-5d27-4428-a74f-a4601f4a12a0" name="updated welcome page" comment="" />
-      <created>1615737692178</created>
+      <changelist id="e02fc2f8-b48d-43f3-944d-e8675622bb0d" name="Default Changelist" comment="Test" />
+      <created>1615750904351</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1615737692178</updated>
-      <workItem from="1615737694437" duration="2671000" />
+      <updated>1615750904351</updated>
+      <workItem from="1615750905415" duration="526000" />
     </task>
-    <task id="LOCAL-00001" summary="updated welcome page">
-      <created>1615748416666</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1615748416666</updated>
-    </task>
-    <task id="LOCAL-00002" summary="updated welcome page">
-      <created>1615748625731</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1615748625731</updated>
-    </task>
-    <task id="LOCAL-00003" summary="updated welcome page">
-      <created>1615748847170</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1615748847170</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Test">
-      <created>1615749030427</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1615749030427</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Test">
-      <created>1615749118002</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1615749118002</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,10 +70,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="updated welcome page" />
-    <MESSAGE value="Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test" />
+    <MESSAGE value="Landingpage" />
+    <option name="LAST_COMMIT_MESSAGE" value="Landingpage" />
   </component>
 </project>
