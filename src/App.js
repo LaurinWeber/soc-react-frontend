@@ -7,9 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          The webiste is being updated, please come back in a week.
+          The website is being updated, please come back soon!
         </p>
-
       </header>
     </div>
   );
